@@ -32,7 +32,7 @@
     "humanize-ms": "1.0.1",
     "jquery": "^3.5.0",
     "lodash": "4.17.21",
-    "marked": "4.0.10",
+    "marked": "4.3.0",
     "method-override": "latest",
     "moment": "2.29.2",
     "mongodb": "^3.5.9",
